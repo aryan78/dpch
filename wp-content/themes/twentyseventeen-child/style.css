@@ -26,3 +26,26 @@
 .page.page-one-column:not(.twentyseventeen-front-page) #primary {
   max-width: 100% !important;
 }
+
+* Footer */
+#colophon {
+background: #fafafa;
+}
+
+/* Facebook */
+#colophon #menu-item-24 a {
+  background-color: #3b5998 !important;
+}
+/* Twitter */
+#colophon #menu-item-25 a {
+  background-color: #6CADDE !important;
+}
+/* Insta */
+#colophon #menu-item-26 a {
+  background-color: #a00 !important;
+}
+/* Email */
+#colophon #menu-item-27 a {
+  background-color: #078 !important;
+}
+
