@@ -1,6 +1,7 @@
 <?php
 require 'dbconn.php'; 
 ?>
+
 <?php
     $name_file = fopen('person-name.txt', 'r') or die("Unable to open file!");
     while (!feof($name_file)) {
