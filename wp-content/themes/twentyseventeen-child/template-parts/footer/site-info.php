@@ -16,7 +16,7 @@
 	}
 	?>
         &copy; 2018 Deependra Kshetri &nbsp;&nbsp; 
-	<a href="<?php echo esc_url( __( '', 'twentyseventeen' ) ); ?>" class="imprint">
+	<a href="<?php echo esc_url( __( '', 'twentyseventeen' ) ); ?>" "target = _blank" class="imprint">
 		<?php printf( __( ' %s', 'twentyseventeen' ), '' ); ?>
 	</a>
 </div><!-- .site-info -->
