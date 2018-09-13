@@ -91,3 +91,7 @@ require_once(ABSPATH . 'wp-settings.php');
 	
 /* TO make local plugin install work. */
 define('FS_METHOD', 'direct');
+
+/* https */
+define('FORCE_SSL_ADMIN',true);
+
